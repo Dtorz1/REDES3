@@ -1,64 +1,73 @@
+
 Existen varias alternativas de formación en redes de computadoras con la posibilidad de obtener certificaciones reconocidas en la industria. Estas certificaciones demuestran tus habilidades y conocimientos en el campo de las redes y pueden mejorar tus oportunidades de empleo. Aquí hay algunas opciones populares:
 
 -Cisco Certified Network Associate (CCNA): Ofrecido por Cisco, este certificado es ampliamente reconocido y cubre conceptos básicos de redes, configuración y solución de problemas de dispositivos Cisco.
 
 Requisitos:Debes superar un examen que abarca una amplia gama de conceptos relacionados con redes, abordando desde los fundamentos hasta temas de nivel avanzado.
 
-Costo:-
+costo:El costo del examen es de aproximadamente $300 USD
 
 -CompTIA Network+: Esta certificación es neutral en cuanto a proveedores y abarca una amplia variedad de conceptos de redes, desde lo básico hasta temas más avanzados.
 
 Requisitos:Debes superar un examen que abarca una amplia gama de conceptos relacionados con redes, abordando desde los fundamentos hasta temas de nivel avanzado.
 
-Costo:-
+costo:El costo del examen es de aproximadamente $319 USD
 
 -Juniper Networks Certified Associate (JNCIA): Ofrecido por Juniper Networks, este certificado se centra en las tecnologías de enrutamiento y conmutación de Juniper.
 
 Requisitos:Debes superar un examen que abarca una amplia gama de conceptos relacionados con redes, abordando desde los fundamentos hasta temas de nivel avanzado.
 
-Costo:-
+costo:El costo del examen es de aproximadamente $200 USD
 
 -Microsoft Certified: Azure Fundamentals: Si estás interesado en las redes en la nube y en particular en Microsoft Azure, esta certificación es una excelente opción.
 
 Requisitos:Debes superar un examen que abarca una amplia gama de conceptos relacionados con redes, abordando desde los fundamentos hasta temas de nivel avanzado.
 
-Costo:-
+costo:El costo del examen es de aproximadamente $990 USD
 
 -Certified Information Systems Security Professional (CISSP): Aunque se enfoca más en la seguridad de la información, también abarca temas de redes y comunicaciones.
 
 Requisitos:Debes superar un examen que abarca una amplia gama de conceptos relacionados con redes, abordando desde los fundamentos hasta temas de nivel avanzado.
 
-Costo:-
+costo:El costo del examen es de aproximadamente $4699 USD
 
 -Certified Wireless Network Professional (CWNP): Estas certificaciones se centran en las redes inalámbricas y cubren aspectos desde lo básico hasta lo más avanzado.
 
 Requisitos:Debes superar un examen que abarca una amplia gama de conceptos relacionados con redes, abordando desde los fundamentos hasta temas de nivel avanzado.
 
-Costo:-
+costo:El costo del examen es variable dependiendo de la certificacion
 
 -VMware Certified Professional (VCP-NV): Si estás interesado en la virtualización de redes y el software-defined networking (SDN), esta certificación de VMware podría ser relevante.
 
-Requisitos:-.
-Costo:-
+Requisitos: Debes cumplir con ciertos requisitos previos, como haber completado un curso oficial de VMware, y aprobar un examen que cubre la virtualización de redes y el software-defined networking (SDN).
+.
+costo:El costo del examen es de aproximadamente $2500 USD
 
 -Certified Ethical Hacker (CEH): Si estás interesado en la seguridad de redes desde el punto de vista de un hacker ético, esta certificación podría ser adecuada.
 
-Requisitos:-.
-Costo:-
+Requisitos: Debes cumplir con ciertos requisitos previos, como tener experiencia laboral relevante, y aprobar un examen que cubre la seguridad de redes desde el punto de vista de un hacker ético.
+.
+costo:El costo del examen es de aproximadamente $500 USD
 
 -AWS Certified Advanced Networking - Specialty: Si te interesa la administración de redes en la nube de Amazon Web Services, esta certificación se enfoca en aspectos avanzados de redes en la nube.
 
-Requisitos:-.
-Costo:-
+Requisitos: Debes cumplir con ciertos requisitos previos, como tener experiencia laboral relevante con AWS, y aprobar un examen que cubre aspectos avanzados de redes en la nube.
+.
+costo:El costo del examen es de aproximadamente $300 USD
 
 -Palo Alto Networks Certified Network Security Administrator (PCNSA): Esta certificación se centra en las habilidades necesarias para administrar y mantener dispositivos de seguridad de red de Palo Alto Networks.
 
-Requisitos:-.
-Costo:-
+Requisitos:Requisitos:Debes superar un examen que abarca una amplia gama de conceptos relacionados con redes, abordando desde los fundamentos hasta temas de nivel avanzado.
+
+costo:El costo del examen es de aproximadamente $140 USD
 
 -Red Hat Certified Engineer (RHCE): Si estás interesado en administración de sistemas Linux con un enfoque en redes, esta certificación de Red Hat podría ser relevante.
 
-Requisitos:-.
-Costo:-
+Requisitos: Debes cumplir con ciertos requisitos previos, como haber obtenido la certificación Red Hat Certified System Administrator (RHCSA), y aprobar un examen que cubre administración de sistemas Linux con un enfoque en redes
+.
+costo:El costo del examen es de aproximadamente $400 USD
 
 -Oracle Certified Professional, Oracle Solaris Network Administrator (OCP): Esta certificación se enfoca en la administración de redes y sistemas en el entorno Solaris de Oracle. Cubre una amplia gama de habilidades y conocimientos relacionados con la configuración, administración y solución de problemas de redes en sistemas Solaris.
+
+costo:El costo del examen es de aproximadamente $245 USD
+
