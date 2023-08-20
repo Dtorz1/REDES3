@@ -1,1 +1,78 @@
-.
+      Protocolos de red / Didier Toro / Unimonserrate
+
+                Definición de protocolo
+
+Un protocolo se refiere a un conjunto de normas y procedimientos diseñados para garantizar un funcionamiento óptimo. En el contexto de las redes, un protocolo consiste en un conjunto de reglas que definen el formato y el procesamiento de datos. Estos protocolos de red actúan como una especie de lenguaje común para los dispositivos informáticos en una red. A pesar de las potenciales diferencias en el software y hardware empleados en los diferentes ordenadores de una red, el uso de protocolos permite establecer una comunicación efectiva entre ellos.
+
+          Criterios de clasificación o tipos de clasificación
+
+Estos son algunas clasificaciones para diversos protocolos:
+
+-Por Nivel de Capa OSI/Modelo TCP/IP: Clasificación según la capa en la que operan dentro de los modelos OSI o TCP/IP.
+
+-Por Orientación de Comunicación: Agrupación en base a si la comunicación es unidireccional (simplex), bidireccional alternante (half-duplex) o bidireccional simultánea (full-duplex).
+
+-Por Tipo de Servicio: Diferenciación entre protocolos que requieren establecer una conexión previa (orientado a conexión) y aquellos que no la necesitan (sin conexión).
+
+-Por Tipo de Red: Separación en función de si los protocolos están diseñados para redes físicas con cables o redes inalámbricas.
+
+-Por Método de Acceso: Agrupación basada en cómo los dispositivos acceden al medio de transmisión, como mediante divisiones en frecuencia, tiempo o detección de portadora.
+
+-Protocolos de Enrutamiento: Clasificación según el enfoque de los protocolos en la selección de caminos óptimos en una red.
+
+-Propósito y Funcionalidad: Categorización según el rol de los protocolos, como la comunicación de aplicaciones, el control del transporte, la gestión de la red, la conexión entre dispositivos y las características físicas de la transmisión.
+
+          Protocolos principales 
+
+FTP (Protocolo de Transferencia de Archivos)
+
+  El Protocolo de Transferencia de Archivos (FTP) es una norma de Internet que facilita la transferencia de archivos entre computadoras mediante conexiones TCP/IP.
+
+SSH (Shell Seguro)
+
+  También conocido como Secure Shell o Secure Socket Shell, SSH es un protocolo de red que ofrece a los usuarios, especialmente a los administradores de sistemas, una vía segura para acceder a una computadora a través de redes no seguras.
+
+SMTP (Protocolo Simple de Transferencia de Correo)
+
+  SMTP es el protocolo estándar para los servicios de mensajería en una red TCP/IP. Proporciona la capacidad de enviar y recibir correos electrónicos de manera efectiva.
+
+POP3 (Protocolo de Oficina de Correo)
+
+  POP3 es un protocolo estándar de Internet que permite extraer y recuperar correos electrónicos desde un servidor de correo remoto, facilitando el acceso desde la máquina anfitriona.
+
+HTTP (Protocolo de Transferencia de Hipertexto)
+
+  HTTP engloba un conjunto de reglas destinadas a la transferencia de archivos, como texto, imágenes, archivos de audio, video y otros contenidos multimedia, a través de la World Wide Web (WWW).
+
+IMAP (Protocolo de Acceso a Mensajes de Internet)
+
+  IMAP es un protocolo que permite a los usuarios acceder a sus correos electrónicos almacenados en un servidor remoto de manera más versátil, manteniendo los mensajes en el servidor incluso después de ser descargados.
+
+DNS (Sistema de Nombres de Dominio)
+
+  El Sistema de Nombres de Dominio es esencial en Internet, ya que traduce los nombres de dominio legibles por humanos en direcciones IP numéricas, permitiendo la navegación basada en nombres en lugar de direcciones.
+
+HTTPS (Protocolo de Transferencia de Hipertexto Seguro)
+
+  HTTPS es una variante segura de HTTP que utiliza cifrado para proteger la privacidad y la integridad de los datos transmitidos, especialmente importante en transacciones en línea y la seguridad de los usuarios.
+
+SNMP (Protocolo Simple de Administración de Red)
+
+  SNMP facilita la gestión y supervisión de dispositivos de red, permitiendo a los administradores recolectar información y controlar dispositivos desde una ubicación central.
+
+RDP (Protocolo de Escritorio Remoto)
+
+  El Protocolo de Escritorio Remoto permite a los usuarios acceder y controlar de forma remota computadoras y servidores, como si estuvieran frente a ellos, lo que es valioso para el soporte técnico y la administración de sistemas.
+
+
+
+          Bibliografía
+
+Fernández, L. (2020, marzo 21). Protocolos de redes: guía completa con los protocolos básicos. RedesZone. https://www.redeszone.net/tutoriales/internet/protocolos-basicos-redes/
+
+routing y switching Introducción a redes, C., v. (s. f.). Capítulo 3: Protocolos y comunicación de red. Www.uv.mx. Recuperado 20 de agosto de 2023, de https://www.uv.mx/personal/angelperez/files/2019/02/CCNA_ITN_Chp3.pdf
+
+(S. f.-a). Cloudflare.com. Recuperado 20 de agosto de 2023, de https://www.cloudflare.com/es-es/learning/network-layer/what-is-a-protocol/
+
+(S. f.-b). Openwebinars.net. Recuperado 20 de agosto de 2023, de https://openwebinars.net/blog/protocolo-de-red-que-es-tipos-y-caracteristicas/
+
