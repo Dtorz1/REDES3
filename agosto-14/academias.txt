@@ -71,3 +71,28 @@ costo:El costo del examen es de aproximadamente $400 USD
 
 costo:El costo del examen es de aproximadamente $245 USD
 
+
+Bibliografía
+CCNA. (2023, agosto 15). Cisco. https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html
+
+CEH certification. (2023, julio 20). EC-Council. https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/
+
+CISSP - certified information systems security professional. (s. f.). Isc2.org. Recuperado 23 de agosto de 2023, de https://www.isc2.org/Certifications/CISSP
+
+(CWNP) Certified Wireless Network Professional certification. (s. f.). Cwnp.com. Recuperado 23 de agosto de 2023, de https://www.cwnp.com/
+
+JNCIA-Junos certification. (s. f.). Juniper Networks. Recuperado 23 de agosto de 2023, de https://www.juniper.net/us/en/training/certification/tracks/junos/jncia-junos.html
+
+Microsoft certified: Azure fundamentals. (s. f.). Microsoft.com. Recuperado 23 de agosto de 2023, de https://learn.microsoft.com/es-es/certifications/azure-fundamentals/
+
+Network+ (plus) certification. (s. f.). Default. Recuperado 23 de agosto de 2023, de https://www.comptia.org/certifications/network
+
+Palo Alto networks certified network security administrator (PCNSA). (s. f.). Palo Alto Networks. Recuperado 24 de agosto de 2023, de https://www.paloaltonetworks.com/services/education/palo-alto-networks-certified-network-security-administrator
+
+Programa de certificaciones de Oracle. (s. f.). Oracle España. Recuperado 24 de agosto de 2023, de https://www.oracle.com/es/education/certification/get-certified/
+
+Red Hat Certified Engineer (RHCE). (s. f.). Redhat.com. Recuperado 24 de agosto de 2023, de https://www.redhat.com/es/services/certification/rhce
+
+VMware certified professional - network virtualization 2023 (VCP-NV 2023). (2023, agosto 13). VMware. https://www.vmware.com/learning/certification/vcp-nv-nsxt.html
+
+(S. f.). Amazon.com. Recuperado 24 de agosto de 2023, de https://aws.amazon.com/es/certification/certified-advanced-networking-specialty/
